@@ -9,3 +9,5 @@ console.log(multiplyNumber(3, 3));
 
 const divie = (a, b) => a / b;
 console.log(divide(9 / 3));
+
+console.log(add(5, 5));
